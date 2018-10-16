@@ -2,6 +2,9 @@
 
 This can be disregarded because it will only contain some basic algorithms written in Go. This makes it easy to share them between computers and read on-the-go when I need to.
 
+## Warning
+This code is not representative of me (Colby Leiske) as a programmer, but rather just a quick scratchpad to throw these algorithms on to pick and prod. Please take a look at another repo for examples of my own code. Thanks!
+
 ## Algorithms Contained
 1. Insertion Sort
 2. Selection Sort
